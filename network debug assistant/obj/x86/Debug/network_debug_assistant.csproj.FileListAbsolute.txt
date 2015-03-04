@@ -1,0 +1,8 @@
+E:\c# Project Workspace\network debug assistant\network debug assistant\bin\Debug\network debug assistant.exe
+E:\c# Project Workspace\network debug assistant\network debug assistant\bin\Debug\network debug assistant.pdb
+E:\c# Project Workspace\network debug assistant\network debug assistant\obj\x86\Debug\network_debug_assistant.Properties.Resources.resources
+E:\c# Project Workspace\network debug assistant\network debug assistant\obj\x86\Debug\network_debug_assistant.csproj.GenerateResource.Cache
+E:\c# Project Workspace\network debug assistant\network debug assistant\obj\x86\Debug\network debug assistant.exe
+E:\c# Project Workspace\network debug assistant\network debug assistant\obj\x86\Debug\network debug assistant.pdb
+E:\c# Project Workspace\network debug assistant\network debug assistant\obj\x86\Debug\network_debug_assistant.Index.resources
+E:\c# Project Workspace\network debug assistant\network debug assistant\obj\x86\Debug\network_debug_assistant.csprojResolveAssemblyReference.cache
