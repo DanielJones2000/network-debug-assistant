@@ -18,11 +18,11 @@ When you download this software,you can use vs2010 open network debug assistant.
 
 ##Proposals and problems：
 
-*You can send information to my e-mail or add my QQ.
+You can send information to my e-mail or add my QQ.
 
-*My e-mail address: 491425241@qq.com
+My e-mail address: 491425241@qq.com
 
-*QQ : 491425241
+QQ : 491425241
 
-*QQ technical exchange group:303603622
+QQ technical exchange group:303603622
 
